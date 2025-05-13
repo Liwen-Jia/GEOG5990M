@@ -9,17 +9,17 @@ This project investigates the spatial relationship between deprivation levels, h
    - Date Accessed: 2025-05-11  
    - Description: Area-level deprivation scores at the 2011 LSOA level, higher scores indicate greater deprivation.
 
-2. **ahah_v3: Access to Healthy Assets & Hazards (AHAH) v3**  
+2. **ahah_v3.csv: Access to Healthy Assets & Hazards (AHAH) v3**  
    - Source: [Consumer Data Research Centre (CDRC)](https://data.cdrc.ac.uk/dataset/access-healthy-assets-hazards-ahah-previous-versions)  
    - Date Accessed: 2025-05-11  
    - Description: Scores representing accessibility to health-promoting environments, including GPs, hospitals, pharmacies, dentists, leisure services.
 
-3. **leeds_health_facilities: Healthcare Facilities Locations**  
+3. **leeds_health_facilities.geojson: Healthcare Facilities Locations**  
    - Source: [Open Street Map](https://www.openstreetmap.org/#map=19/53.810222/-1.516950)  
    - Date Accessed: 2025-05-11  
    - Description: Geographic locations of hospitals, general practitioners (GPs), dentists, and pharmacies.
 
-4. **Leeds_LSOA: Leeds Boundary Shapefile (2011 LSOA Geography)**  
+4. **Leeds_LSOA.geojson: Leeds Boundary Shapefile (2011 LSOA Geography)**  
    - Source: [Office for National Statistics (ONS)](https://geoportal.statistics.gov.uk/search?q=BDY_LSOA%20DEC_2011&sort=Title%7Ctitle%7Casc)  
    - Date Accessed: 2025-05-11  
    - Description: Administrative boundary data for Leeds, aligned with the 2011 LSOA geography used in other datasets.
